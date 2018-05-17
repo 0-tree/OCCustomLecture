@@ -1,9 +1,21 @@
-h6
+body
 {
-  color: green;
+    background-color: #DDDDDD;
+    color: #222222;
+}
+
+h6, h6 p
+{
+  text-align: right;
+}
+
+p
+{
+  font-size: 1.1em; /* better to use relative sizes like em */
 }
 
 .localColor
 {
   color: red;
 }
+
